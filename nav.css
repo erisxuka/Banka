@@ -1,0 +1,14 @@
+#nav {
+    font-family: "Inknut Antiqua", serif;
+  font-weight: 300;
+  font-style: normal;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#right-side {
+    font-size: 23px;
+    width: 320px;
+    display: flex;
+    justify-content: space-around;
+}
